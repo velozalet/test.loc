@@ -1,0 +1,317 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ba",
+				"baztag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/dev48/www/test.loc",
+		"/home/dev48/www/test.loc/wp-content",
+		"/home/dev48/www/test.loc/wp-content/plugins",
+		"/home/dev48/www/test.loc/wp-content/plugins/plugin_popup",
+		"/home/dev48/www/test.loc/wp-content/plugins/twitt_googlemap",
+		"/home/dev48/www/test.loc/wp-content/themes"
+	],
+	"file_history":
+	[
+		"/home/dev48/Desktop/NECKATTACK.LOC.Project/Функционал_верстки_и_js_TerapistList/index.html",
+		"/home/dev48/Desktop/NECKATTACK.LOC.Project/Функционал_верстки_и_js_TerapistList/js/script.js",
+		"/home/dev48/Desktop/NECKATTACK.LOC.Project/Функционал_верстки_и_js_TerapistList/css/style.css",
+		"/home/dev48/Desktop/Выбор_значения в поле через JS.txt",
+		"/home/dev48/Desktop/NECKATTACK.LOC.Project/copy_plugin_neck_attack_massers/september/21-09-2015/neck_attack_massers/shortcodes.php",
+		"/home/dev48/Desktop/NECKATTACK.LOC.Project/copy_plugin_neck_attack_massers/september/22-09-2015/neck_attack_massers/shortcodes.php",
+		"/home/dev48/Desktop/NECKATTACK.LOC.Project/copy_plugin_neck_attack_massers/Actuality/neckattack_plugin-work_naw/neck_attack_massers/shortcodes.php",
+		"/home/dev48/Desktop/NECKATTACK.LOC.Project/copy_plugin_neck_attack_massers/Actuality/neckattack_plugin-work_naw/neck_attack_massers/neck_attack_massers.php",
+		"/home/dev48/Desktop/NECKATTACK.LOC.Project/copy_plugin_neck_attack_massers/Actuality/neckattack_plugin-work_naw/neck_attack_massers/assets/js/na_stripe_scripts.js",
+		"/home/dev48/www/test.loc/wp-content/plugins/my_plugin1/my_plugin1.php",
+		"/home/dev48/www/home61.loc/css/bootstrap.css",
+		"/home/dev48/Desktop/NECKATTACK.LOC.Project/My_backend_files/Пример_обращения_к_данны_OBECT-ARRAY.txt",
+		"/home/dev48/Desktop/NECKATTACK.LOC.Project/My_backend_files/Весь_Shortcode_Вити_ОБЩИЙ_(до_разделения).txt",
+		"/home/dev48/Desktop/NECKATTACK.LOC.Project/shortcodes.php",
+		"/home/dev48/Desktop/NECKATTACK.LOC.Project/copy_plugin_neck_attack_massers/Actuality/na_stripe_scripts.js",
+		"/home/dev48/new_project/neck_attack_massers/shortcodes.php",
+		"/home/dev48/www/freestc.js",
+		"/home/dev48/www/pddm.css",
+		"/home/dev48/www/polylang-drop-down-menu.php",
+		"/home/dev48/www/index.php",
+		"/home/dev48/www/bootstrap.min.js",
+		"/home/dev48/www/polylang-drop-down-menu/js/polylang-drop-down-menu.php",
+		"/home/dev48/www/polylang-drop-down-menu/js/freestc.js",
+		"/home/dev48/www/polylang-drop-down-menu/css/pddm.css",
+		"/home/dev48/www/polylang-drop-down-menu/js/bootstrap.min.js",
+		"/home/dev48/www/Plugin_slavvvva/index.php",
+		"/media/dev48/6632-CBDF/плагин Славы/polylang-drop-down-menu/polylang-drop-down-menu.php",
+		"/media/dev48/6632-CBDF/плагин Славы/polylang-drop-down-menu/css/pddm.css",
+		"/media/dev48/6632-CBDF/777777777777/page.php",
+		"/media/dev48/6632-CBDF/плагин Славы/polylang-drop-down-menu/js/freestc.js",
+		"/media/dev48/6632-CBDF/плагин Славы/polylang-drop-down-menu/index.php",
+		"/media/dev48/6632-CBDF/плагин Славы/polylang-drop-down-menu/js/bootstrap.min.js",
+		"/home/dev48/Desktop/Зарегистр.Shortcode-использовать_new.txt",
+		"/home/dev48/Desktop/Вывод_всех_имеющихся_страниц_в_виде_ссылок_(Меню-Навигация).txt",
+		"/home/dev48/Desktop/Выводы_данных_из_табл.wp_posts.txt",
+		"/home/dev48/www/functions.php",
+		"/home/dev48/www/header.php",
+		"/home/dev48/www/blog-layout-index.php",
+		"/home/dev48/www/test.loc/wp-content/themes/twentyfourteen/page.php",
+		"/home/dev48/www/test.loc/wp-content/themes/twentyfourteen/featured-content.php",
+		"/home/dev48/www/test.loc/wp-content/themes/twentyfourteen/content.php",
+		"/home/dev48/www/test.loc/wp-content/themes/twentythirteen/content.php",
+		"/home/dev48/www/test.loc/wp-content/themes/twentythirteen/page.php",
+		"/home/dev48/www/test.loc/wp-content/themes/my_theme/page.php",
+		"/home/dev48/www/test.loc/wp-content/themes/twentyfourteen/content-page.php",
+		"/home/dev48/www/test.loc/wp-content/themes/twentyfifteen/content-page.php",
+		"/home/dev48/www/test.loc/wp-content/themes/twentyfifteen/content.php",
+		"/home/dev48/www/blog-layout.php",
+		"/home/dev48/Downloads/Зарегистр.Shortcode-использовать.txt",
+		"/home/dev48/Downloads/4585686/database-staging-webphpdev-info-1441621887.sql",
+		"/home/dev48/Downloads/5555/banterfeed.sql",
+		"/home/dev48/Downloads/555/index_3-2-0.html",
+		"/home/dev48/Downloads/555/css/bootstrap.css",
+		"/home/dev48/Desktop/Working_files/Work_to_Yii",
+		"/home/dev48/Desktop/ЧУВАК YII",
+		"/home/dev48/www/test.loc/wp-content/plugins/twitt_googlemap/twitt_googlemap.php",
+		"/media/dev48/6632-CBDF/save/yii.loc/config/web.php",
+		"/media/dev48/6632-CBDF/save/yii.loc/config/db.php",
+		"/media/dev48/6632-CBDF/save/yii.loc/views/layouts/main.php",
+		"/media/dev48/6632-CBDF/save/yii.loc/views/site/hello.php",
+		"/media/dev48/6632-CBDF/save/yii.loc/web/index.php",
+		"/media/dev48/6632-CBDF/save/yii.loc/controllers/SiteController.php",
+		"/media/dev48/6632-CBDF/save/yii.loc/config/params.php",
+		"/home/dev48/www/test.loc/wp-content/themes/my_theme/functions.php",
+		"/home/dev48/www/test.loc/wp-content/plugins/plugin_popup/plugin_popup.php",
+		"/home/dev48/www/test.loc/wp-content/plugins/plugin_popup/plugin_popup.css",
+		"/home/dev48/www/test.loc/wp-content/themes/my_theme/index.php",
+		"/home/dev48/www/test.loc/wp-content/plugins/plugin_popup/popup.html",
+		"/home/dev48/www/test.loc/wp-content/themes/my_theme/header.php",
+		"/media/dev48/6632-CBDF/WEB_ARCHIVE/W_E_B__S_T_U_D_Y_I_N_G/ОБУЧЕНИЕ/HELPERS/WP/зарегистр.Shortcode-использовать.txt",
+		"/media/dev48/22B6B90AB6B8DF89/1_A_R_C_H_I_V_E/W_E_B__S_T_U_D_Y_I_N_G/ОБУЧЕНИЕ/PHP/Нар-ки_PHP-кодов_для_вставок/SQL/SQL_in_WP.php",
+		"/media/dev48/22B6B90AB6B8DF89/1_A_R_C_H_I_V_E/W_E_B__S_T_U_D_Y_I_N_G/ОБУЧЕНИЕ/PHP/Нар-ки_PHP-кодов_для_вставок/SQL/Zaproses_in_SQL.php",
+		"/media/dev48/22B6B90AB6B8DF89/1_A_R_C_H_I_V_E/W_E_B__S_T_U_D_Y_I_N_G/ОБУЧЕНИЕ/PHP/Нар-ки_PHP-кодов_для_вставок/SQL/Zapros_k_tabl.BD_s_prov.+CICLE.php",
+		"/media/dev48/22B6B90AB6B8DF89/1_A_R_C_H_I_V_E/W_E_B__S_T_U_D_Y_I_N_G/ОБУЧЕНИЕ/PHP/Нар-ки_PHP-кодов_для_вставок/SQL/Work_to_PDO.php",
+		"/media/dev48/22B6B90AB6B8DF89/1_A_R_C_H_I_V_E/W_E_B__S_T_U_D_Y_I_N_G/ОБУЧЕНИЕ/PHP/Нар-ки_PHP-кодов_для_вставок/SQL/Sintaksis_OOP_Prep.php",
+		"/media/dev48/22B6B90AB6B8DF89/1_A_R_C_H_I_V_E/W_E_B__S_T_U_D_Y_I_N_G/ОБУЧЕНИЕ/PHP/Нар-ки_PHP-кодов_для_вставок/test.php",
+		"/media/dev48/22B6B90AB6B8DF89/1_A_R_C_H_I_V_E/W_E_B__S_T_U_D_Y_I_N_G/ОБУЧЕНИЕ/HELPERS/WP/зарегистр.Shortcode-использовать.txt",
+		"/home/dev48/www/test.loc/wp-config.php",
+		"/media/dev48/22B6B90AB6B8DF89/With_Home/plugins/twitt_googlemap/twitt_googlemap.php",
+		"/media/dev48/22B6B90AB6B8DF89/With_Home/plugins/twitt_googlemap/plugin_twittgooglemap.js",
+		"/media/dev48/22B6B90AB6B8DF89/With_Home/plugins/twitt_googlemap/plugin_twittgooglemap.css",
+		"/media/dev48/22B6B90AB6B8DF89/With_Home/themes/my_theme/index.php",
+		"/media/dev48/22B6B90AB6B8DF89/With_Home/themes/index.php",
+		"/home/dev48/Downloads/ionRangeSliderDemo/index.html",
+		"/home/dev48/Downloads/ionRangeSliderDemo/css/ion.rangeSlider.skinFlat.css",
+		"/home/dev48/Downloads/ionRangeSliderDemo/css/normalize.css",
+		"/home/dev48/Downloads/ionRangeSliderDemo/css/ion.rangeSlider.css",
+		"/home/dev48/Downloads/ionRangeSliderDemo/js/ion.rangeSlider.js",
+		"/home/dev48/Downloads/ionRangeSliderDemo/js/jquery-1.11.1.min.js",
+		"/home/dev48/www/test.loc/wp-content/themes/my_theme/single-thumbnails.php",
+		"/home/dev48/www/test.loc/wp-content/themes/my_theme/single-excerpt.php",
+		"/home/dev48/www/test.loc/wp-content/themes/my_theme/single-comments.php",
+		"/home/dev48/www/test.loc/wp-admin/includes/upgrade.php",
+		"/home/dev48/www/test.loc/wp-content/plugins/my_plugin1/my_plugin1.css",
+		"/home/dev48/www/test.loc/wp-content/plugins/hello.php",
+		"/home/dev48/www/test.loc/wp-content/plugins/akismet/akismet.php",
+		"/home/dev48/www/test.loc/wp-content/plugins/index.php",
+		"/home/dev48/www/test.loc/wp-content/plugins/akismet/wrapper.php",
+		"/home/dev48/www/test.loc/wp-content/plugins/akismet/index.php",
+		"/home/dev48/www/test.loc/wp-content/plugins/akismet/views/config.php",
+		"/home/dev48/www/test.loc/wp-content/plugins/akismet/class.akismet-widget.php",
+		"/home/dev48/www/test.loc/wp-content/plugins/akismet/class.akismet.php",
+		"/home/dev48/www/test.loc/wp-content/plugins/akismet/views/start.php",
+		"/home/dev48/www/test.loc/wp-content/plugins/akismet/views/notice.php",
+		"/home/dev48/www/test.loc/wp-content/plugins/akismet/_inc/akismet.css",
+		"/home/dev48/www/test.loc/wp-content/themes/my_theme/footer.php",
+		"/home/dev48/www/test.loc/wp-content/themes/my_theme/my_plugin.js",
+		"/home/dev48/www/test.loc/wp-content/plugins/my_plugin1/readme.txt",
+		"/home/dev48/www/test.loc/wp-content/themes/my_theme/bootstrap/css/bootstrap.css",
+		"/home/dev48/www/test.loc/wp-content/themes/my_theme/main.js",
+		"/home/dev48/www/test.loc/wp-content/themes/my_theme/style.css",
+		"/home/dev48/www/test.loc/.htaccess",
+		"/home/dev48/www/test.loc/wp-content/themes/my_theme/page-contacts .php",
+		"/home/dev48/www/test.loc/.directory",
+		"/home/dev48/www/test.loc/wp-content/themes/my_theme/template_thumbnails_page.php",
+		"/home/dev48/www/test.loc/index.php",
+		"/home/dev48/www/test.loc/index.sublime-project",
+		"/etc/apache2/sites-enabled/test.loc.conf",
+		"/etc/apache2/sites-available/test.loc.conf",
+		"/home/dev48/www/test.loc/wp-config-sample.php",
+		"/etc/apache2/sites-available/test1.loc.conf",
+		"/etc/apache2/sites-enabled/test1.loc.conf"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"pick date-pick mid",
+			"wrap-pick",
+			"content",
+			".caret",
+			".current-lang",
+			"putRevSlider",
+			"http://staging.webphpdev.info",
+			"staging.webphpdev.info",
+			"staging",
+			"stag",
+			"sta",
+			"http://staging.webphpdev.info/",
+			"caret",
+			"треугольник",
+			"registered_post_type"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"http://banterfeed.loc",
+			"banterfeed.loc",
+			"http://banterfeed.loc/"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 287.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -1,0 +1,59 @@
+/* for PopUp-окна*/
+.overlay{
+    position: fixed;
+    width:100%;
+    height:100%;
+    top:0;
+    left:0;
+    background-color: rgba(128, 128, 128, 0.75);
+    z-index: 8888888;
+}
+.popup-box {
+    position: absolute;
+    display: none; /*чтобы изначально его не было видно,-он будет появляться функционалом jQuery*/
+    left: 20px;
+    z-index: 9999999;
+}
+.popup-box .close {
+    position: inherit; /* этот <div class='close'> сидит у нас в <div class='top'>,поэтому тут задаем позицию родительскую и будем ровнять уже по отношению <div>-родителя */
+    margin-right: -20px;
+    margin-top: -35px;
+    cursor: pointer;
+    color: #434343;
+    padding: 5px 5px 0 0;
+}
+.popup-box .close:hover {
+    color: #000;
+}
+.popup-box h2 {
+    padding: 0;
+    margin: 0;
+    font-size: 16px;
+}
+.popup-box .top {
+    width: 350px;
+    padding: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 25%;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    background-color: #fffc91;
+
+}
+.popup-box .bottom {
+    width: 350px;
+    margin-left: auto;
+    margin-right: auto;
+    background: #DADBDF;
+    border-top: 0px solid #e5e5e5;
+    padding: 20px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+
+
+/*-------------------------------------------------------------------------------------------------------------------*/
+
+
+

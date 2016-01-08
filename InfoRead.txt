@@ -1,0 +1,2 @@
+ACCESS to the DB: admin_wp / 55555 
+ACCESS ADMIN PANEL: admin_wp / 55555 

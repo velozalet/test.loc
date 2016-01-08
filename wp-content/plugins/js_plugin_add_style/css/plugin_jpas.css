@@ -1,0 +1,12 @@
+.block_div {
+    position: relative;
+    height: 110px;
+    width:310px;
+    background-color: #9acfea;
+    text-align: center;
+}
+
+.test_wrap {
+    background-color: #3c763d;
+    padding: 42px;
+}

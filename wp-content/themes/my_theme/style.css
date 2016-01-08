@@ -1,0 +1,19 @@
+.skamaroch {
+  width: 280px;
+  background: grey;
+  height: 180px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/*-------------------------------------------------------------------------------------------*/
+#owl-demo .item{
+  margin: 3px;
+}
+#owl-demo .item img{
+  display: block;
+  width: 100%;
+  height: auto;
+}
+/*//////////////////////////////////////////////*/
+

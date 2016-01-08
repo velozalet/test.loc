@@ -1,0 +1,2 @@
+//alert(jsObject.text);
+
